@@ -1,0 +1,29 @@
+
+.footer
+{
+    height:40px;
+    clear:both;
+    position: relative;
+    background-color: rgb(233, 228, 86);
+    }
+    
+.container{
+  width:780px;
+  margin:auto;
+  font-size: 16px ;
+  font-family: sans-serif;
+}
+
+.pres{
+  float:left;
+}
+.image{
+  float: right;
+   
+}
+.section{
+  display: inline-block;
+  margin-bottom: 70px;
+}
+
+
